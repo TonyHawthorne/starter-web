@@ -1,2 +1,4 @@
 .ignorethisfile
 log/
+*.orig
+
